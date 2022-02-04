@@ -1,4 +1,4 @@
-import {html, css, LitElement} from 'lit';
+import {html, css, LitElement} from 'https://cdn.skypack.dev/pin/lit@v2.1.2-WTOYAiqbzXK0QOZjUNoy/mode=imports/optimized/lit.js';
 
 export class SimpleGreeting extends LitElement {
   static styles = css`p { color: blue }`;
